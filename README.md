@@ -1,7 +1,7 @@
 # Airbnb-tableau-dashboard
 Built for current or aspiring NYC Airbnb hosts, this dashboard combines Airbnb listings, 311 complaint data, and MTA subway access to reveal which ZIP codes offer the strongest returns. Compare neighborhoods, assess risks, and make smarter, data-driven investment decisions in one of the world’s toughest short-term rental markets.
 https://drive.google.com/drive/folders/1pjKFyJ1eZNb5DJHl8Ox7d2rNZ-mRwgJq?usp=drive_link 
-I have included my Tableau workbook and all datasets used in this project. You can access all files using the link below.
+**I have included my Tableau workbook and all datasets used in this project. You can access all files using the link below.**
 # NYC Airbnb Market Intelligence: ROI Performance & Risk Assessment
 
 A Tableau-powered visual analytics project that helps Airbnb hosts and investors identify the best ZIP codes in New York City for short-term rental success by combining ROI potential, neighborhood risk, and transit accessibility into one decision-making platform. 
